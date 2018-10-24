@@ -6,3 +6,4 @@
 4. Exercise Perpangktan Dua
 5. Exercise X dan O
 6. Exercise Palindrome
+7. Exercise Hitung Jumlah Kata
