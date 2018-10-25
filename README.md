@@ -9,3 +9,4 @@
 7.  Exercise Hitung Jumlah Kata
 8.  Exercise Perkalian Unik
 9.  Exercise Pasangan Angka terbesar
+10. Exercise Palindrome Angka
