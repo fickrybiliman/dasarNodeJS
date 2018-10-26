@@ -11,3 +11,4 @@
 9.  Exercise Pasangan Angka terbesar
 10. Exercise Palindrome Angka
 11. Exercise Deret Aritmatika
+12. Exercise Deret Geometri
