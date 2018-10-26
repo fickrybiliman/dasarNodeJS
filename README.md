@@ -12,3 +12,4 @@
 10. Exercise Palindrome Angka
 11. Exercise Deret Aritmatika
 12. Exercise Deret Geometri
+13. Exercise Target Terdekat
