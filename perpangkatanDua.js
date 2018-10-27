@@ -1,6 +1,14 @@
 function perpangkatanDua(str) {
    // you can only write your code here!
-   return Number.isInteger(Math.sqrt(str)) ? Math.sqrt(str) : -1;
+
+   let count = 0;
+
+   while (str % 2 == 0) {
+     count++;
+     str /= 2;
+   }
+   return count == 1 ? -1 : count;
+
  }
  
  // TEST CASES
